@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Andoni Abedul Blog"
+description = "Tecnologia, politica, economia y pensamientos varios, en algunos casos inútiles, en otros quizás no tanto."
+theme = "kiera"
+
+[author]
+  name = "Andoni Abedul"
+  homepage = "https://github.com/andoniabedul"
+  github = "andoniabedul"
+  linkedin = "andoniabedul"
+  twitter = "abedulfield"
+[original]
+  name = "b. avianto"
+  homepage = "https://avianto.com"
+  repo = "https://github.com/avianto/hugo-kiera"

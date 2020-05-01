@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Andoni Abedul Blog"
 description = "Tecnologia, politica, economia y pensamientos varios, en algunos casos inútiles, en otros quizás no tanto."
-theme = "kiera"
+theme = "archie"
 
 [author]
   name = "Andoni Abedul"

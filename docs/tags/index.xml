@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Andoni Abedul</title>
+    <link>https://andoniabedul.github.io/tags/</link>
+    <description>Recent content in Tags on Andoni Abedul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2019 15:03:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://andoniabedul.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pruebas</title>
+      <link>https://andoniabedul.github.io/tags/pruebas/</link>
+      <pubDate>Thu, 03 Oct 2019 15:03:36 +0200</pubDate>
+      
+      <guid>https://andoniabedul.github.io/tags/pruebas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

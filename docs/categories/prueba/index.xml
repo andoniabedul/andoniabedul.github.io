@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prueba on Andoni Abedul</title>
+    <link>https://andoniabedul.github.io/categories/prueba/</link>
+    <description>Recent content in prueba on Andoni Abedul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2019 15:03:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://andoniabedul.github.io/categories/prueba/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mi Segundo Post</title>
+      <link>https://andoniabedul.github.io/posts/mi-segundo-post/</link>
+      <pubDate>Thu, 03 Oct 2019 15:03:36 +0200</pubDate>
+      
+      <guid>https://andoniabedul.github.io/posts/mi-segundo-post/</guid>
+      <description>Este es mi segundo post. Comprobando listados, las categorias y otras cosas.
+Lorem ipsum dolor sit amet consectetur adipiscing elit neque, quam pulvinar rhoncus a massa nisl ultricies fringilla, orci viverra dui diam et fusce hac. Quam id blandit libero nostra elementum neque montes cursus quis, sociis facilisis dictumst cras nec vestibulum parturient justo, nisi faucibus ornare tristique penatibus venenatis volutpat metus. Montes natoque malesuada class morbi non metus neque, porta varius vulputate volutpat nostra nibh justo, ultrices condimentum maecenas inceptos enim himenaeos.</description>
+    </item>
+    
+  </channel>
+</rss>

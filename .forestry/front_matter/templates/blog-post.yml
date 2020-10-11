@@ -15,4 +15,4 @@ fields:
   name: categories
   label: categories
 pages:
-- content/posts/tercer-post-prueba-final.md
+- docs/posts/tercer-post-prueba-final.md
